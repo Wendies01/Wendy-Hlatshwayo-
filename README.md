@@ -15,6 +15,17 @@ scalable backend platforms and real-world solutions.
 A scalable wellness operations platform designed to manage clients, services,
 bookings, analytics, and AI-assisted insights.
 
+## Project Status
+🚧 This project is currently under active development.
+Some features are still in progress, including database configuration
+and data persistence layers. The repository reflects ongoing work
+and will be updated as development continues.
+
+## Known Issues & Ongoing Work
+- Database configuration and migrations are still being finalized
+- Some CRUD operations are partially implemented
+- Additional validation and testing are in progress
+
 👉 **Pinned below** — this is my flagship system.
 
 ## 🎯 What I Care About
